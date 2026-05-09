@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suman Ojha</h1>
-<h3 align="center">2nd Year CSE Student | Aspiring Software Developer | Passionate Learner</h3>
+<h3 align="center">B.Tech Computer Science Student | Aspiring Software Developer | Passionate Learner</h3>
 
 ---
 
